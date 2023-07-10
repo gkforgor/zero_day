@@ -1,0 +1,1 @@
+nd uname without any options, it prints the name of the operating system kernel that your system is running. The output typically includes the kernel name, node name (the name of the machine), kernel release version, kernel version, hardware architecture, and the operating system.
